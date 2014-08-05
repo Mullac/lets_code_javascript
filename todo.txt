@@ -19,4 +19,5 @@ Engineering Tasks:
 - client-side testing
 
 To Do on current task:
+- Test branch push.
 - make build fail when Lint fails
